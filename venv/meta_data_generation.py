@@ -8,6 +8,7 @@ class ColorDistribution:
 
     # Contains definitions and methods to calculate the ColorDistribution of given images
     # This is just a simple test
+    # This is another test
     def global_cd(self, image_path):
         # Calculate one color-histogram for the entire image
         # image parameter is the path to an actual image
